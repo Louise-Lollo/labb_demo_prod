@@ -3,5 +3,4 @@ dist
 .DS_Store
 
 # Hemligheter och lokal konfiguration – aldrig i repot
-.env
-.env.local
+config.bat
